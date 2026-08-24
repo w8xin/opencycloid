@@ -1,0 +1,8 @@
+site_name: Andrew
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+nav:
+  - Home: index.md
