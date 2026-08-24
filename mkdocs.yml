@@ -6,3 +6,6 @@ theme:
     - content.code.copy
 nav:
   - Home: index.md
+  - BOM: bom.md
+  - Build:
+    - Actuator: build/actuator.md
