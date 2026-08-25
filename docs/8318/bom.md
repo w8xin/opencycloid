@@ -44,8 +44,8 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 | P-03 | CoverMid | PLA | 1 | |
 | P-04 | CoverBottom | PLA | 1 | |
 | P-05 | MKSCoverMid | PLA | 1 | |
-| P-06 | bearingcoverBottom | PLA | 1 | |
-| P-07 | CoverBottomWire | PLA | 1 | |
+| P-06 | CoverBottomWire | PLA | 1 | |
+| P-07 | bearingcoverBottom | PLA | 1 | |
 | P-08 | magnetcover | PLA | 1 | |
 | P-09 | Odrive Supporter | PLA | 4 | |
 
