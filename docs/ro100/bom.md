@@ -12,8 +12,6 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 |---|---|---|---|---|
 | E-01 | BLDC motor | RO100 55KV | 1 | [link]() |
 | E-02 | Motor driver | MKS Xdrive MINI | 1 | [link]() |
-| E-03 | Filament | PLA x 1kg |   | [link]() |
-| E-04 | Filament | ABS x 1kg |   | [link]() |
 
 ---
 
@@ -21,9 +19,9 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 
 | ID | Part | Spec | Qty | Notes |
 |---|---|---|---|---|
-| M-01 | Bearing | 75mm x 95mm x 10mm| 1 | [link]() |
+| M-01 | Bearing | 75mm x 95mm x 10mm| 2 | [link]() |
 | M-02 | Bearing | 20mm x 27mm x 14mm| 4 | [link]() |
-| M-03 | Roller pin | M8 × 30, stainless | 8 | |
+| M-03 | Roller pin | M8 × 18, stainless | 16 | |
 | M-04 | Screw | M3 x 5mm | 4 | [link]() |
 | M-05 | Screw | M3 x 8mm | 8 | [link]() |
 | M-06 | Screw | M3 x 15mm | 12 | [link]() |
