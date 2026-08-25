@@ -1,6 +1,7 @@
-# Bill of Materials
+# CY-8318 — Bill of Materials
 
-Quantities are **per actuator**. A full lower body requires ×10
+Quantities are **per actuator**.
+Shared design information: [Design](../design.md)
 CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 
 ---
