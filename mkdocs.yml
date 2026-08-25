@@ -6,6 +6,10 @@ theme:
     - content.code.copy
 nav:
   - Home: index.md
-  - BOM: bom.md
-  - Build:
-    - Actuator: build/actuator.md
+  - Design: design.md
+  - CY-8318:
+    - BOM: 8318/bom.md
+    - Assembly: 8318/assembly.md
+  - CY-RO100:
+    - BOM: ro100/bom.md
+    - Assembly: ro100/assembly.md
