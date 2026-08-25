@@ -49,10 +49,12 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 | P-06 | bearingcoverBottom | PLA | 1 | |
 | P-07 | magnetcover | PLA | 1 | |
 | P-08 | Odrive Supporter | PLA | 4 | |
+
 **Print settings** — 0.4 mm nozzle, 0.2 mm layer, 5 walls, 15 % gyroid infill.
 
 | P-07 | Output | PLA | 1 | |
 | P-08 | Shaft Start | PLA | 1 | |
+
 **Print settings** — 0.4 mm nozzle, 0.2 mm layer, 5 walls, 100 %
 
 | P-08 | Shaft Top | ABS | 1 | |
@@ -61,6 +63,7 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 | P-04 | Disk1 | ABS | 1 | |
 | P-05 | Disk2 | ABS | 1 | |
 | P-06 | OutputFlange | ABS | 1 | |
+
 **Print settings** — 0.4 mm nozzle, 0.2 mm layer, 5 walls, 100 %
 
 ---
