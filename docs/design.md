@@ -31,13 +31,12 @@ enough to target a different motor.
 
 | Parameter | Symbol | CY-8318 | CY-RO100 |
 |---|---|---|---|
-| Pin circle diameter | D_p | 84mm | 84qwmm |
+| Pin circle diameter | D_p | 84mm | 84mm |
 | Number of pins | N | 13 | 17 |
 | Eccentricity | e | 1.5mm | 1.5mm |
 | Disc thickness | t | 6mm | 6mm |
 | Number of discs | — | 2 | 2 |
 | Reduction ratio | i | 12:1 | 16:1 |
-| Output bore | — | — mm | — mm |
 
 
 Reduction follows `i = N − 1` for a single-disc cycloidal stage with
