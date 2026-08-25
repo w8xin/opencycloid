@@ -12,18 +12,6 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 |---|---|---|---|---|
 | E-01 | BLDC motor | 8318 100KV | 1 | [link]() |
 | E-02 | Motor driver | MKS Xdrive MINI | 1 | [link]() |
-| E-03 | Bearing | 75mm x 95mm x 10mm| 1 | [link]() |
-| E-04 | Bearing | 20mm x 27mm x 14mm| 1 | [link]() |
-| E-05 | Screw | M3 x 5mm | 4 | [link]() |
-| E-06 | Screw | M3 x 8mm | 8 | [link]() |
-| E-07 | Screw | M3 x 15mm | 12 | [link]() |
-| E-08 | Screw | M3 x 16mm | 4 | [link]() |
-| E-09 | Screw | M3 x 30mm | 8 | [link]() |
-| E-10 | Screw | M3 x 40mm | 2 | [link]() |
-| E-11 | Screw | M3 x 50mm | 8 | [link]() |
-| E-12 | Screw | M4 x 6mm | 4 | [link]() |
-| E-13 | Filament | PLA x 1kg |   | [link]() |
-| E-14 | Filament | ABS x 1kg |   | [link]() |
 
 ---
 
@@ -31,10 +19,19 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 
 | ID | Part | Spec | Qty | Notes |
 |---|---|---|---|---|
-| M-01 | Bearing | 6808-2RS | 2 | Output stage |
-| M-02 | Bearing | 6704-2RS | 1 | Eccentric shaft |
-| M-03 | Roller pin | M8 × 30, stainless | 8 | |
-| M-04 | Screw | M3 × 8, socket head | 12 | |
+| M-01 | Bearing | 75mm x 95mm x 10mm| 2 | [link]() |
+| M-02 | Bearing | 20mm x 27mm x 14mm| 4 | [link]() |
+| M-03 | Screw | M3 x 5mm | 4 | [link]() |
+| M-04 | Screw | M3 x 8mm | 8 | [link]() |
+| M-05 | Screw | M3 x 15mm | 12 | [link]() |
+| M-06 | Screw | M3 x 16mm | 4 | [link]() |
+| M-07 | Screw | M3 x 30mm | 8 | [link]() |
+| M-08 | Screw | M3 x 40mm | 2 | [link]() |
+| M-09 | Screw | M3 x 50mm | 8 | [link]() |
+| M-10 | Screw | M4 x 6mm | 4 | [link]() |
+| M-11 | Roller pin | M8 × 18, stainless | 13 | |
+| M-12 | Filament | PLA x 1kg | 1 | [link]() |
+| M-13 | Filament | ABS x 1kg | 1 | [link]() |
 
 ---
 
