@@ -52,11 +52,15 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 
 **Print settings** — 0.4 mm nozzle, 0.2 mm layer, 5 walls, 15 % gyroid infill.
 
+| ID | Part | Spec | Qty | Source |
+|---|---|---|---|---|
 | P-07 | Output | PLA | 1 | |
 | P-08 | Shaft Start | PLA | 1 | |
 
 **Print settings** — 0.4 mm nozzle, 0.2 mm layer, 5 walls, 100 %
 
+| ID | Part | Spec | Qty | Source |
+|---|---|---|---|---|
 | P-08 | Shaft Top | ABS | 1 | |
 | P-02 | Shaft Middle | ABS | 1 | |
 | P-03 | Shaft Bottom | ABS | 1 | |
