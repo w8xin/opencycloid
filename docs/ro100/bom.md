@@ -29,7 +29,8 @@ CAD and print files: [Releases](https://github.com/w8xin/opencycloid/releases)
 | M-08 | Screw | M3 x 30mm | 8 | [link]() |
 | M-09 | Screw | M3 x 40mm | 2 | [link]() |
 | M-10 | Screw | M3 x 50mm | 8 | [link]() |
-| M-11 | Screw | M4 x 6mm | 4 | [link]() |
+| M-11 | Screw | M4 x 6mm | 6 | [link]() |
+| M-11 | Screw | M5 x 6mm | 6 | [link]() |
 | M-12 | Filament | PLA x 1kg | 1 | [link]() |
 | M-13 | Filament | ABS x 1kg | 1 | [link]() |
 
